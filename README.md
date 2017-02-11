@@ -2,5 +2,3 @@
 
 De l'installation à la structure interne avec les tablespaces et les index en passant par le clustering et le requêtage. Vous aurez une vue complète du SGBDR : Oracle
 
-
-[embed]compte-rendu-1.pdf?raw=true[/embed]
